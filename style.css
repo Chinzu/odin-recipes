@@ -1,0 +1,22 @@
+*
+{
+    background-color: lightgoldenrodyellow;
+    text-align: center;
+    color: black;
+}
+
+h1, h2
+{
+    font-family: 'Brush Script MT', cursive;
+}
+
+ul
+{
+    list-style: none;
+}
+
+ol
+{
+    list-style-position: inside;
+}
+
